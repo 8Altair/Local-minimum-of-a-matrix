@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Dino/Programiranje/Cpp/Strukture podataka i algoritmi/Projekti/Prvi/Tema 1.3 - divide and conquer/main.cpp
+iostream
+-
+iomanip
+-
+cstdlib
+-
+ctime
+-
+vector
+-
+string
+-
+sstream
+-
+
